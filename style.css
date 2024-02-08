@@ -1,0 +1,7 @@
+a[title] {
+    color: red;
+}
+
+a[href*="ciclos"] {
+    color: blueviolet;
+}
